@@ -1,5 +1,7 @@
 # TEK-9 Clothing
 
+### [Link to site](https://tek-clothing.vercel.app/home)
+
 TEK-9 Clothing is a full-stack web application, meticulously designed to simulate a modern-day online clothing store. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this project showcases a dynamic and robust user interface, comprehensive authentication system, and an efficient database design. Developed independently over a period of one month, TEK-9 Clothing offers a glimpse into the future of e-commerce platforms.
 
 ## Features
@@ -16,13 +18,10 @@ TEK-9 Clothing is a full-stack web application, meticulously designed to simulat
 - [React](https://reactjs.org/) - Frontend Library
 - [Node.js](https://nodejs.org/) - JavaScript Runtime
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/YourUsername/TEK9/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- [**Alan Mackiewicz**](https://github.com/AlanM03)
 
 ## License
 
@@ -30,6 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you to [TileMaker](https://tilemaker.app/?ref=taaft&utm_source=taaft&utm_medium=referral&id=w6fscmyubfe4rndwi6jp2u5kd4) for creating most of the art for this project
