@@ -19,9 +19,9 @@ TEK-9 Clothing is a full-stack web application, meticulously designed to simulat
 - [Node.js](https://nodejs.org/) - JavaScript Runtime
 
 
-## Authors
+## Author
 
-- [**Alan Mackiewicz**](https://github.com/AlanM03)
+[**Alan Mackiewicz**](https://github.com/AlanM03)
 
 ## License
 
@@ -29,4 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Thank you to [TileMaker](https://tilemaker.app/?ref=taaft&utm_source=taaft&utm_medium=referral&id=w6fscmyubfe4rndwi6jp2u5kd4) for creating most of the art for this project
+Thank you to [TileMaker](https://tilemaker.app/?ref=taaft&utm_source=taaft&utm_medium=referral&id=w6fscmyubfe4rndwi6jp2u5kd4) for creating most of the art for this project
